@@ -13,8 +13,10 @@ Prerequisites:
 
 1. To install:
 
-  `$ pip install matlab_kernel`
-  `$ python -m matlab_kernel install`
+  ```
+  $ pip install matlab_kernel
+  $ python -m matlab_kernel install
+  ```
 
 2. Create a condo environment for the tutorial so that my code will work on your computer
 
@@ -24,10 +26,12 @@ Prerequisites:
 
 3. To use the matlab_kernel, run one of:
 
-  `$ jupyter notebook`
-  `$ # In the notebook interface, select Matlab from the ‘New’ menu`
-  `$ # OR`
-  `$ jupyter notebook —kernel matlab`
+  ```
+  $ jupyter notebook
+  $ # In the notebook interface, select Matlab from the ‘New’ menu
+  $ # OR
+  $ jupyter notebook —kernel matlab
+  ```
 
 Now you are all set for the workshop! Don’t worry if you have trouble with installation… we will dedicated time during the workshop for debugging.
 
